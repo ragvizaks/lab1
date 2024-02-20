@@ -1,0 +1,5 @@
+git config --global user.name ragvizaks
+git config --global user.email abkdata@mail.ru
+git config --global init.defaultBranch main
+git config --global core.autocrlf true
+git config --global core.safecrlf warn
